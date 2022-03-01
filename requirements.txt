@@ -4,3 +4,7 @@ numpy
 matplotlib
 seaborn
 ipywidgets
+bqplot
+ipympl
+ipyvolume
+scipy
